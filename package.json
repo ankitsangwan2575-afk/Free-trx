@@ -1,0 +1,13 @@
+{
+  "name": "freetrx",
+  "version": "1.0.0",
+  "description": "FreeTRX - USDT to TRX swap interface with wallet connect",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC"
+}
